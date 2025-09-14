@@ -1,5 +1,5 @@
 # 성인독서율 고취를 위한 스마트 도서관 최적입지선정
-<img width="2559" height="1564" alt="image" src="https://github.com/user-attachments/assets/fce0341c-1d02-44c8-9aea-d6a0e09eb7e3" />
+<img width="2503" height="1396" alt="image" src="https://github.com/user-attachments/assets/65c41260-77ac-461d-8ad8-e364a7a09fe7" />
 
 # 1. 프로젝트 개요
 - 프로젝트 기간: 2024.07~2024.09 (3개월)
